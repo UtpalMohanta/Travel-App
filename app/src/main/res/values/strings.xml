@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="let_s_enjoy_the_n_beautiful_world">Let\'s Enjoy The\n Beautiful world</string>
+    <string name="explorer_new_places_in_the_worln_nand_get_new_expriences">Explorer new places in the worln\nand get new expriences</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="jack_willson">Jack_willson</string>
+    <string name="discover_the_best_place_n">Discover the Best place\n</string>
+    <string name="name">Name</string>
+    <string name="discover_the_best_place_nto_travel">Discover the best place\nTo Travel</string>
+    <string name="search_location">Search Location</string>
+    <string name="popular">Popular</string>
+    <string name="see_all">See all</string>
+    <string name="category">Category</string>
+    <string name="home">Home</string>
+    <string name="add">Add</string>
+</resources>
