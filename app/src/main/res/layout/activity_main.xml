@@ -279,10 +279,11 @@
             android:backgroundTint="@color/orange"
             app:fabCustomSize="40dp"
             app:layout_anchor="@id/app_bar"
-            android:srcCompat="@drawable/float_icon"
+
             android:contentDescription="@string/add"
             app:maxImageSize="30dp"
-            app:tint="@color/white" />
+            app:tint="@color/white"
+            />
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
