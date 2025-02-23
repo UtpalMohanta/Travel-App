@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item android:id="@+id/Home"
+       android:icon="@drawable/bottom_btn1"
+       android:title="@string/home1"
+       app:showAsAction="withText">
+   </item>
+    <item android:id="@+id/explorer"
+        android:icon="@drawable/bottom_btn2"
+        android:title="@string/explorer"
+        app:showAsAction="withText">
+    </item>
+    <item android:id="@+id/Bookmark"
+        android:icon="@drawable/bottom_btn3"
+        android:title="@string/bookmark"
+        app:showAsAction="withText">
+    </item>
+    <item android:id="@+id/profile"
+        android:icon="@drawable/bottom_btn4"
+        android:title="@string/profile"
+        app:showAsAction="withText">
+    </item>
+
+</menu>
