@@ -14,4 +14,21 @@
     <string name="category">Category</string>
     <string name="home">Home</string>
     <string name="add">Add</string>
+    <string name="explorer_the_world_with_us">Explorer the \n World with us</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_n_adipiscing_elit_sed_do_eiusmod_tempor">Lorem ipsum dolor sit amet, consectetur \n adipiscing elit, sed do eiusmod tempor</string>
+    <string name="get_start">Get Started</string>
+    <string name="login">Login</string>
+    <string name="streat_address_city">Streat, Address, City...</string>
+    <string name="search1">Search</string>
+    <string name="enjoy_your_journy_n_without_limits">Enjoy your journy \nwithout limits</string>
+    <string name="popular_stays">Popular Stays</string>
+    <string name="popular_stays1">Popular Stays</string>
+    <string name="home1">Home</string>
+    <string name="explorer">Explorer</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="title">title</string>
+    <string name="address">address</string>
+    <string name="_5">5</string>
+    <string name="_0_night">$0/Night</string>
 </resources>
