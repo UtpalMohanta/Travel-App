@@ -31,4 +31,21 @@
     <string name="address">address</string>
     <string name="_5">5</string>
     <string name="_0_night">$0/Night</string>
+    <string name="_0">0</string>
+    <string name="description">Description</string>
+    <string name="description1">description</string>
+    <string name="duration">Duration</string>
+    <string name="min">min</string>
+    <string name="distance">Distance</string>
+    <string name="bed">Bed</string>
+    <string name="_000">$000</string>
+    <string name="check_avilable">Check Avilable</string>
+    <string name="check_avilable1">check avilable</string>
+    <string name="_1">$000</string>
+    <string name="night1">Night</string>
+    <string name="avilable">Avilable</string>
+    <string name="todo">TODO</string>
+    <string name="lkqwjdk">TODO</string>
+    <string name="todoqwedqw">TODO</string>
+    <string name="shadgdg">TODO</string>
 </resources>
