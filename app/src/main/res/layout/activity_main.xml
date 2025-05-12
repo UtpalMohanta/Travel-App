@@ -74,6 +74,7 @@
                         android:layout_marginStart="50dp"
                         android:backgroundTint="@color/white"
                         android:ems="10"
+                        android:textColor="@color/black"
                         android:hint="@string/streat_address_city"
                         android:textSize="18sp"
                         app:layout_constraintBottom_toBottomOf="parent"
