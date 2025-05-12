@@ -1,5 +1,6 @@
 package com.example.travelapp.Adapters;
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -8,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.travelapp.DetailActivity;
 import com.example.travelapp.ModelClass.ItemModel;
 import com.example.travelapp.databinding.ViewHolderpopularBinding;
 
@@ -45,6 +47,9 @@ public class PopularAdapter extends RecyclerView.Adapter<PopularAdapter.ViewHold
             @Override
             public void onClick(View v) {
 
+                Intent intent=new Intent(context, DetailActivity.class);
+                intent.putExtra("itemModel",item.get(position));
+                context.startActivity(intent);
             }
         });
     }
