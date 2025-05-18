@@ -1,14 +1,9 @@
 
-
 ##  👨‍💻 Project Contributors
-
-Name	                       Responsibility	                                 Portfolio
-Akash	          Login UI & Architecture Design	portfolio_Akash        [portfolio_Akash](http://akash-devworks.netlify.app)
-Utpal       	  Backend Development	portfolio_Utpal                    [portfolio_Utpal](https://tinyurl.com/mv27mw5m)
-Shihab	        Database & Design Pattern	portfolio_Shihab             [portfolio_Shihab](https://shihab0202.github.io/)
-
-
-
+	                                                       
+Akash	==> [portfolio_Akash](http://akash-devworks.netlify.app)
+Utpal ==> [portfolio_Utpal](https://tinyurl.com/mv27mw5m)
+Shhab ==> [portfolio_Shihab](https://shihab0202.github.io/)
 
 # 📱 TravelMate – Your Smart Travel Companion
 
@@ -94,4 +89,8 @@ Run the Application
 Connect a physical Android device or launch an emulator
 
 Press the Run ▶️ button in Android Studio
+
+
+
+	                     
 
