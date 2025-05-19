@@ -319,14 +319,13 @@
                 </androidx.constraintlayout.widget.ConstraintLayout>
 
             </LinearLayout>
-        </LinearLayout>
-    </ScrollView>
+
 
         <LinearLayout
             android:id="@+id/linearLayout2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="24dp"
+            android:layout_marginBottom="16dp"
             android:background="@drawable/garykk"
             android:orientation="horizontal"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -359,10 +358,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="140dp"
                 android:background="@drawable/intro_background"
-                android:text="@string/check_avilable1"
+                android:text="@string/card"
                 android:textColor="@color/white"
                 android:textSize="16sp" />
         </LinearLayout>
-
+        </LinearLayout>
+    </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
